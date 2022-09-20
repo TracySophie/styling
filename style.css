@@ -1,0 +1,20 @@
+h1 {
+    background-color:red;
+}
+#division{
+    color:blue;
+    text-align:right;
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-shadow:10px 10px darksalmon;
+}
+.one{
+    color:red;
+}
+.black{
+    color:green;
+}
+.sweet{
+    background-color:yellow;
+    
+}
